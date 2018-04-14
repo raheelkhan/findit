@@ -1,0 +1,14 @@
+{
+  "name": "findit",
+  "version": "1.0.0",
+  "description": "Reddit search app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raheel Khan",
+  "license": "MIT",
+  "dependencies": {
+    "sugar": "^2.0.4"
+  }
+}
