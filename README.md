@@ -1,9 +1,9 @@
 # findit
 Reddit search app
 
-# Dependencies
-Parcel Js
+### Dependencies
+[Parcel JS] (https://parceljs.org/) 
 
-# Run
+### Run
 - npm install
 - parcel index.html
