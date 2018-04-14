@@ -5,4 +5,5 @@ Reddit search app
 Parcel Js
 
 # Run
-parcel index.html
+- npm install
+- parcel index.html
